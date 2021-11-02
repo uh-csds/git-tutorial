@@ -1,0 +1,13 @@
+site_name: Key Concepts bootcamp
+
+nav:
+  - Home: index.md
+
+theme:
+  name: material
+  custom_dir: overrides
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins: []
