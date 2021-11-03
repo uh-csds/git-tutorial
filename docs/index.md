@@ -1,4 +1,4 @@
-# Alan Turing
+# Alan Turing is best
 
 ![](img/turing.png)
 
