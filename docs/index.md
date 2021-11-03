@@ -8,7 +8,7 @@
 
 # Vincent van Gogh
 
-! [](docs/img/vincent.jpeg)
+![](img/vincent.jpeg)
 
 * Dutch Post-Impressionist painter
 * Created about 2,100 artworks
